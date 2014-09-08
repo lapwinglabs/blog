@@ -1,4 +1,4 @@
-```toml
+```
 title: My Favorite Page
 tags: draft, code, whatever
 date: May 21, 2014
@@ -8,7 +8,7 @@ excerpt: some excerpt
 
 ---
 
-```toml
+```
 title: My Second Favorite Page
 tags: draft, code, whatever
 date: May 21, 2014
