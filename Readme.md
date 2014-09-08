@@ -1,4 +1,4 @@
-```yml
+```yaml
 title: My Favorite Page
 tags: draft, code, whatever
 date: May 21, 2014
@@ -8,7 +8,7 @@ excerpt: some excerpt
 
 ---
 
-```yml
+```yaml
 title: My Second Favorite Page
 tags: draft, code, whatever
 date: May 21, 2014
