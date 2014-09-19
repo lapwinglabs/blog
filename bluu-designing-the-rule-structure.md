@@ -1,17 +1,17 @@
 ```
 title: Bluu: The Rules
-tags: [bluu, app, design, game]
+tags: [Bluu, app, design, game]
 date: August 1, 2014
 slug: bluu-the-rules
 excerpt: Creating the rule logic behind Bluu.
 author: Andy Pai
 ```
 ### Bluu: The Rules
-Designing the appropriate rule logic for Bluu was the was most time consuming part of the weekend.  We wanted to create a game that took advantage of a psychological phenomenon known as the Stroop Effect, demonstrated below:
+Designing the appropriate rule logic for Bluu was the was most time-consuming part of the weekend.  We wanted to create a game that took advantage of a psychological phenomenon known as the Stroop Effect, demonstrated below:
 
 ![img](https://dl.dropboxusercontent.com/u/2312024/StroopEffect.png)
 
-The primary characteristics of a tile we could manipulate along with their abbreviations:<br/>
+The primary characteristics of any tile we could manipulate along with their abbreviations:
 
 1. ITxC:  Inside Text Color
 2. IBC:  Inside Background Color
@@ -20,7 +20,7 @@ The primary characteristics of a tile we could manipulate along with their abbre
 5. OBC:  Outside Background Color
 6. OTx:  Outside Text
 
-So the possible combinations were: <br/>
+So the possible combinations were:
 
 1. ITxC --> OTxC
 2. ITxC --> OBC
@@ -39,7 +39,7 @@ Match the inside tile's background color (IBC) to the outside tile's text (OTx).
 #### Rule 2:  If IBC is Blue -->  OBC
 If the inside tile is colored blue (IBC is blue), then match it to the outside tile's background color (OBC). Basically match inside<span style="color:blue;"> Tile </span> to outside <span style="color:blue;"> Tile</span>.
 
-We decided this rule logic lead to a lot of eye movement since you had to read the text on all four outside tiles at times.  So we decided it would be better if the center tile contained the text.
+We realized this rule logic led to a lot of eye movement since you had to read the text on all four outside tiles at times.  So we decided it would be better if the center tile contained any text that required reading.
 
 ### Attempt #2:  Beta Testing Rules
 #### Rule 1:  ITxC  -->  OBC

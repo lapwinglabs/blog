@@ -15,29 +15,29 @@ During the Apple App Store submission process, we were delayed by these three un
 3. Primary Screenshot
 
 #### D-U-N-S Number (DUNS)
-When we were submitting Bluu, we reached a screen that asked for our company's DUNS number. As it turns out, it's easier to get the Obama's cell phone number than a DUNS number.
+When we were submitting Bluu, we reached a screen that asked for our company's DUNS number. As it turns out, it's easier to get Obama's cell phone number than a DUNS number.
 
-Basically, no start-up has a DUNS number; it has to be acquired through Dun & Bradstreet. Apple uses this number to verify your identity with Dun & Bradstreet. We tried to get our DUNS number in the following ways:  
+Basically, no start-up has a DUNS number; you have to acquire it through Dun & Bradstreet. Apple uses this number to verify your identity with Dun & Bradstreet. We tried to get our DUNS number in the following ways:  
 
 1. Using the D&B website
-2. Using the Apple's website
+2. Using Apple's website
 
 ##### The Bad Way: Using the D&B website
 
-This approach is a complete disaster and will make you question if you even want to submit your app. We first tried to get our DUNS number using the tool on [D&B iUpdate](https://iupdate.dnb.com/). After battling with their website which provides no error messages but just refuses to move forward when you hit continue, we eventually decided to just call them. The rep on the phone said we would have to pay around $600 to get our DUNS number instantly or we would have to wait 30-45 days. Ugh...seems like D&B is trying to innovate the art of phone pick pocketing.
+This approach is a complete disaster and will make you question if you even want to submit your app. We first tried to get our DUNS number using the tool on [D&B iUpdate](https://iupdate.dnb.com/). After battling with their website that provides no error messages but just refuses to move forward when you hit continue, we eventually decided just to call them. The rep on the phone said we would have to pay around $600 to get our DUNS number instantly or we would have to wait 30-45 days. Ugh...seems like D&B is trying to innovate the art of phone pick pocketing.
 
-##### The Less Bad Way: Using the Apple's website
+##### The Less Bad Way: Using Apple's website
 
-Out of frustration, we then tried to us Apple's [DUNS Number Look-up Tool for Company Enrollment](https://developer.apple.com/ios/enroll/dunsLookupForm.action). After the look-up failed, it generated a link to submit a request for our DUNS number to D&B on our behalf. Seven days later we had our number.
+Out of frustration, we then tried to us Apple's [DUNS Number Look-up Tool for Company Enrollment](https://developer.apple.com/ios/enroll/dunsLookupForm.action). After the look-up had failed, it generated a link to submit a request for our DUNS number to D&B on our behalf. Seven days later we had our number.
 
 
 #### Privacy Policy
 
-App Store submission also requires a privacy policy under certain circumstances. Since Bluu doesn't really collect much personal information we ended up going with this simple privacy policy we got from [iudenda](http://iubenda.refr.cc/47N4N5B),  It's a pretty sleek web app that lets you customize your privacy policy depending on the services used in your application (Facebook, Admob, HockeyApp etc.). Use this [link](http://iubenda.refr.cc/47N4N5B) to get 10% off.
+App Store submission also requires a privacy policy under certain circumstances. Since Bluu doesn't collect much personal information we used [this](https://dl.dropboxusercontent.com/u/2312024/Bluu%20Privacy%20Policy.pdf) simple privacy policy we got from [iubenda](http://iubenda.refr.cc/47N4N5B),  It's a pretty sleek web app that lets you customize your privacy policy depending on the services used in your application (Facebook, Admob, HockeyApp etc.). Use this [link](http://iubenda.refr.cc/47N4N5B) to get 10% off.
 
 #### Primary Screenshot
 
-When we were uploading screenshots for Bluu, we realized it would be more effective if the screenshot that shows up in search results looked more like an advertisement. Something like this:
+When we were uploading screenshots for Bluu, we realized it would be more effective if the screenshot that shows up in search results looked more like an advertisement. So we created this screenshot:
 
 ![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Cover.jpg)
 
@@ -57,4 +57,4 @@ Also, here are the dimensions you need for all the screenshots:
 
 The iPhone 6 Plus is the strange one since it doesn't match the actual pixel specification on the Apple website. The iPhone 6 Plus basically scales it down to  1920 x 1080, the actual pixel dimensions.
 
-Hope this helps make your first submission process easier!
+Hope these tips help make your first submission process easier!

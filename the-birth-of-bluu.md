@@ -7,9 +7,9 @@ excerpt: We wanted to make a app that could be usable by the end of a weekend.
 author: Andy Pai
 ```
 ### Bluu: The Birth
-We wanted to make a app that could be usable by the end of a weekend.  The hope was get an app published to the Apple app store quickly to start learning the intricacies of beta deployment and testing, app store submission, and post-release product marketing.
+We wanted to make an app that could be usable by the end of the weekend. The hope was to get an app published to the Apple app store quickly to start learning the intricacies of beta deployment and testing, app store submission, and post-release product marketing.
 
-After discussing ideas ranging from utility to fantasy sports apps, we decided to work on a simple game. We figured since games are downloaded 5x-10x more than other categories, it would at the least give us an established category user-base to try the game. After doing some research on other popular games like 2048 and Timberman, we wanted the game to have the following characteristics:
+After discussing ideas ranging from utility to fantasy sports apps, we decided to work on a simple game. We figured since games get downloaded 5x-10x more than any other category, it gave us the greatest chance of getting some adoption. After doing some research on other popular games like 2048 and Timberman, we wanted the game to have the following characteristics:
 
 1. Easy to play
 2. Hard to master
@@ -19,7 +19,7 @@ We thought the flicking and combing of tiles in 2048 made for a pretty awesome e
 
 The first mock-ups:
 
-![img](https://i.cloudup.com/23g9NsxSV0.png)
+![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Initial-Thoughts.JPG)
 
 The second mock-up:
 
