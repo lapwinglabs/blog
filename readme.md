@@ -1,5 +1,27 @@
 # Blog
 
+[Bluu: App Store Submission](bluu-app-store-submission.md)
+
+```
+title: Bluu: App Store Submission
+tags: Bluu, app, app store submission, privacy policy, D-U-N-S Number, iubenda, screenshots
+date: September 15, 2014
+slug: bluu-app-store-submission
+excerpt: Delays during Apple App Store submission.
+author: Andy Pai
+```
+
+[Bluu: TestFlight vs. Crashlytics vs. HockeyApp](bluu-testflight-crashlytics-hockeyapp.md)
+
+```
+title: Bluu: TestFlight vs. Crashlytics vs. HockeyApp
+tags: TestFlight, Crashlytics, Hockey App, beta testing, crash reporting, bluu
+date: August 3, 2014
+slug: bluu-testflight-crashlytics-hockeyapp
+excerpt: We're happy to be using TestFlight for seamless beta distribution services and Crashlytics for its awesome crash reporting.
+author: Andy Pai
+```
+
 [The Birth of Bluu](the-birth-of-bluu.md)
 
 ```
@@ -20,28 +42,6 @@ tags: bluu, app, design, game
 date: August 1, 2014
 slug: bluu-the-rules
 excerpt: Creating the rule logic behind Bluu.
-author: Andy Pai
-```
-
-[Bluu: TestFlight vs. Crashlytics vs. HockeyApp](bluu-testflight-crashlytics-hockeyapp.md)
-
-```
-title: Bluu: TestFlight vs. Crashlytics vs. HockeyApp
-tags: TestFlight, Crashlytics, Hockey App, beta testing, crash reporting, bluu
-date: August 3, 2014
-slug: bluu-testflight-crashlytics-hockeyapp
-excerpt: We're happy to be using TestFlight for seamless beta distribution services and Crashlytics for its awesome crash reporting.
-author: Andy Pai
-```
-
-[Bluu: App Store Submission](bluu-app-store-submission.md)
-
-```
-title: Bluu: App Store Submission
-tags: Bluu, app, app store submission, privacy policy, D-U-N-S Number, iubenda, screenshots
-date: September 15, 2014
-slug: bluu-app-store-submission
-excerpt: Delays during Apple App Store submission.
 author: Andy Pai
 ```
 
