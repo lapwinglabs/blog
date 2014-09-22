@@ -1,13 +1,12 @@
 ```
-title: Blue: The Birth
+title: The Birth of Bluu
 tags: bluu, app, design, game, iOS, Android
 date: August 1, 2014
-slug: bluu-the-birth
+slug: the-birth-of-bluu
 excerpt: We wanted to make a app that could be usable by the end of a weekend.
 author: Andy Pai
 ```
 
-### Bluu: The Birth
 We wanted to make an app that could be usable by the end of the weekend. The hope was to get an app published to the Apple app store quickly to start learning the intricacies of beta deployment and testing, app store submission, and post-release product marketing.
 
 After discussing ideas ranging from utility to fantasy sports apps, we decided to work on a simple game. We figured since games get downloaded 5x-10x more than any other category, it gave us the greatest chance of getting some adoption. After doing some research on other popular games like 2048 and Timberman, we wanted the game to have the following characteristics:

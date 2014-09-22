@@ -3,10 +3,10 @@
 [The Birth of Bluu](the-birth-of-bluu.md)
 
 ```
-title: Blue: The Birth
+title: The Birth of Bluu
 tags: bluu, app, design, game, iOS, Android
 date: August 1, 2014
-slug: bluu-the-birth
+slug: the-birth-of-bluu
 excerpt: We wanted to make a app that could be usable by the end of a weekend.
 author: Andy Pai
 ```
