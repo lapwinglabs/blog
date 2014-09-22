@@ -7,8 +7,6 @@ excerpt: Tales from our India trip.
 author: Andy Pai
 ```
 
-### An Indian Beginning
-
 Since Brian was still finishing up work at GE, Matt and I along with Matt Hogan, our co-founder for [Levered Returns](http://www.leveredreturns.com), took to trip to Bangalore, India to start working on the Levered Returns and [Duo](http://duojs.org/) concepts. We figured it would be less distracting and give us a chance to meet some interesting people.
 
 Below are some highlights from the trip.
