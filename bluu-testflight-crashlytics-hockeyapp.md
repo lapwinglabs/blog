@@ -7,8 +7,6 @@ excerpt: We're happy to be using TestFlight for seamless beta distribution servi
 author: Andy Pai
 ```
 
-### Bluu: TestFlight vs. Crashlytics vs. HockeyApp
-
 At the end of the weekend, we wanted to get Bluu into some hands to start getting feedback. Deployment was surprisingly far more complicated than we had envisioned.
 
 We had to reach out to our friends and family to get their UDIDs, Apple's unique identifier for iPhones. As expected, none of them had ever heard of a UDID. Some started worrying we were trying to send them some type of phone virus. After some explaining, we had to get them to either:
@@ -22,14 +20,14 @@ The three services we came across that promised to improve our workflow were Tes
 
 After some research on TestFlight and Crashlytics, our first impressions were:
 
-TestFlight
+## TestFlight
 
 - Free
 - Collects UDID's by downloading an app on the user's phone. They use the same app to deliver the app for download. No chords necessary. Hallelujah!
 - Recently acquired by Apple, so should work seamlessly for iOS stuff. Unfortunately, this also means that they won't support Android anymore
 SDK integration provides crash reporting and user data
 
-Crashlytics
+## Crashlytics
 
 - Free? Seriously? Even the Enterprise services? Is this a scam?... Oh, they got acquired by Twitter. Hopefully Twitter's deep pockets can probably afford to keep it around and free, at least for a while :)
 - Offers beta distribution for iOS and Android
