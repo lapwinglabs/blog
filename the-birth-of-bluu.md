@@ -6,6 +6,7 @@ slug: bluu-the-birth
 excerpt: We wanted to make a app that could be usable by the end of a weekend.
 author: Andy Pai
 ```
+
 ### Bluu: The Birth
 We wanted to make an app that could be usable by the end of the weekend. The hope was to get an app published to the Apple app store quickly to start learning the intricacies of beta deployment and testing, app store submission, and post-release product marketing.
 

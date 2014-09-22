@@ -6,6 +6,7 @@ slug: bluu-the-rules
 excerpt: Creating the rule logic behind Bluu.
 author: Andy Pai
 ```
+
 ### Bluu: The Rules
 Designing the appropriate rule logic for Bluu was the was most time-consuming part of the weekend.  We wanted to create a game that took advantage of a psychological phenomenon known as the Stroop Effect, demonstrated below:
 
@@ -51,7 +52,7 @@ If the inside tile's text is blue, then match it to the outside tile's backgroun
 #### Rule 3:  If TxC is Blue --> Anywhere except blue OBC
 If the inside tile's text color is blue, then avoid matching it to the blue outside tile
 
-We released a beta version with these rules, anticipating that Rule #3 may overly complicate the game. Beta testers agreed. 
+We released a beta version with these rules, anticipating that Rule #3 may overly complicate the game. Beta testers agreed.
 
 ### Attempt #3:  Final Rules for Launch
 Rule 1:  ITxC  -->  OBC <br/>

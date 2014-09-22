@@ -6,13 +6,15 @@ slug: bluu-testflight-crashlytics-hockeyapp
 excerpt: We're happy to be using TestFlight for seamless beta distribution services and Crashlytics for its awesome crash reporting.
 author: Andy Pai
 ```
+
 ### Bluu: TestFlight vs. Crashlytics vs. HockeyApp
+
 At the end of the weekend, we wanted to get Bluu into some hands to start getting feedback. Deployment was surprisingly far more complicated than we had envisioned.
 
 We had to reach out to our friends and family to get their UDIDs, Apple's unique identifier for iPhones. As expected, none of them had ever heard of a UDID. Some started worrying we were trying to send them some type of phone virus. After some explaining, we had to get them to either:
 
-1. Download an app that gave them their UDID or 
-2. Plug in their iPhones into their computer to get it for us. 
+1. Download an app that gave them their UDID or
+2. Plug in their iPhones into their computer to get it for us.
 
 But the pain didn't stop there. Once we received their UDID's, we had to create a build including the collected UDID's and send it to them for installation via e-mail. Once they received the package, they had to reconnect their phone to iTunes and install the app. Even after these steps, sometimes the app wouldn't install! We needed a better beta testing experience, or we risked losing all our friends.
 

@@ -6,6 +6,7 @@ slug: bluu-app-store-submission
 excerpt: Delays during Apple App Store submission.
 author: Andy Pai
 ```
+
 ### Bluu: App Store Submission
 
 During the Apple App Store submission process, we were delayed by these three unforeseen requirements:
@@ -17,7 +18,7 @@ During the Apple App Store submission process, we were delayed by these three un
 #### D-U-N-S Number (DUNS)
 When we were submitting Bluu, we reached a screen that asked for our company's DUNS number. As it turns out, it's easier to get Obama's cell phone number than a DUNS number.
 
-Basically, no start-up has a DUNS number; you have to acquire it through Dun & Bradstreet. Apple uses this number to verify your identity with Dun & Bradstreet. We tried to get our DUNS number in the following ways:  
+Basically, no start-up has a DUNS number; you have to acquire it through Dun & Bradstreet. Apple uses this number to verify your identity with Dun & Bradstreet. We tried to get our DUNS number in the following ways:
 
 1. Using the D&B website
 2. Using Apple's website
