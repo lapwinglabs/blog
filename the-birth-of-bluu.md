@@ -1,5 +1,6 @@
 ```
 title: The Birth of Bluu
+featured: https://i.cloudup.com/bLfc2mYZpd.png
 tags: bluu, app, design, game, iOS, Android
 date: August 1, 2014
 slug: the-birth-of-bluu
