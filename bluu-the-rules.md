@@ -7,7 +7,6 @@ excerpt: Creating the rule logic behind Bluu.
 author: Andy Pai
 ```
 
-### Bluu: The Rules
 Designing the appropriate rule logic for Bluu was the was most time-consuming part of the weekend.  We wanted to create a game that took advantage of a psychological phenomenon known as the Stroop Effect, demonstrated below:
 
 ![img](https://dl.dropboxusercontent.com/u/2312024/StroopEffect.png)
