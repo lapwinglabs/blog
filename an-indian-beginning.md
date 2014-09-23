@@ -24,7 +24,7 @@ By far India's biggest sport, it was fun playing some street ball. No, it’s no
 #### Rickshaw. 150 Rupees?! 100 Rupees Maximum
 
 Our primary mode of transport around was the Rickshaw. No, not the ones where [someone cycles you around](http://en.wikipedia.org/wiki/Rickshaws_in_the_United_States). The Indian kind! I don't think they’re made for three dudes our size though. Also, it's pretty hilarious negotiating with drivers, especially when the see foreigners.
-![img](https://dl.dropboxusercontent.com/u/2312024/rickshaw.JPG)
+![img](https://cldup.com/ZyokznpOob.jpg)
 
 #### Cobalt
 
