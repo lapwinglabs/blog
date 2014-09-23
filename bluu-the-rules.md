@@ -59,4 +59,4 @@ Rule 2:  If ITx is Blue -->  OBC <br/>
 
 If the game has app store success, it'll be fun remixing the rule combinations for challenge modes and additional levels!
 
-In [Bluu: TestFlight vs. Crashlytics vs. HockeyApp](https://www.google.com) we describe our experience with selecting a beta testing and crash reporting service.
+In [Bluu: TestFlight vs. Crashlytics vs. HockeyApp](http://lapwinglabs.com/blog/bluu-testflight-crashlytics-hockeyapp) we describe our experience with selecting a beta testing and crash reporting service.

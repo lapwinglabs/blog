@@ -35,5 +35,5 @@ Final Design:
 ![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Final3.png)
 
 
-In [Bluu: The Rules](https://www.google.com) we describe our next steps in designing the rule logic.
+In [Bluu: The Rules](http://lapwinglabs.com/blog/bluu-the-rules) we describe our next steps in designing the rule logic.
 
