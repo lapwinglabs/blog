@@ -24,9 +24,18 @@ The first mock-ups:
 
 The second mock-up:
 
-![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Mock-up1.png)
-![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Mock-up2.png)
-![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Mock-up3.png)
+<div style="width:100%">
+	<div style="float:left; width:30%">
+		![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Mock-up1.png)
+	</div>
+	<div style="float:left; width:30%">
+		![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Mock-up2.png)
+	</div>
+	<div style="float:left; width:30%">
+		![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Mock-up3.png)
+	</div>
+	<div style="clear:both"></div>
+</div>
 
 Final Design:
 

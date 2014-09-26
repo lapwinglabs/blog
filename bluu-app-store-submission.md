@@ -29,7 +29,7 @@ This approach is a complete disaster and will make you question if you even want
 
 ##### The Less Bad Way: Using Apple's website
 
-Out of frustration, we then tried to us Apple's [DUNS Number Look-up Tool for Company Enrollment](https://developer.apple.com/ios/enroll/dunsLookupForm.action). After the look-up had failed, it generated a link to submit a request for our DUNS number to D&B on our behalf. Seven days later we had our number.
+Out of frustration, we then tried to use Apple's [DUNS Number Look-up Tool for Company Enrollment](https://developer.apple.com/ios/enroll/dunsLookupForm.action). After the look-up had failed, it generated a link to submit a request for our DUNS number to D&B on our behalf. Seven days later we had our number.
 
 
 #### Privacy Policy
@@ -42,7 +42,7 @@ When we were uploading screenshots for Bluu, we realized it would be more effect
 
 ![img](https://dl.dropboxusercontent.com/u/2312024/Bluu-Cover.jpg)
 
-It took a bit to find the all the iPhone and iPad templates to make the screenshot possible to I'm sharing them for your convenience:
+It took a bit to find the all the iPhone and iPad templates to make the screenshot possible so I'm sharing them for your convenience:
 
 1. [iPhone 4](https://dl.dropboxusercontent.com/u/2312024/iPhone4.png)
 2. [iPhone 5](https://dl.dropboxusercontent.com/u/2312024/iPhone5.png)
