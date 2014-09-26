@@ -23,8 +23,8 @@ By far India's biggest sport, it was fun playing some street ball. No, it’s no
 
 #### Rickshaw. 150 Rupees?! 100 Rupees Maximum
 
-Our primary mode of transport around was the Rickshaw. No, not the ones where [someone cycles you around](http://en.wikipedia.org/wiki/Rickshaws_in_the_United_States). The Indian kind! I don't think they’re made for three dudes our size though. Also, it's pretty hilarious negotiating with drivers, especially when the see foreigners.
-![img](https://dl.dropboxusercontent.com/u/2312024/rickshaw.JPG)
+Our primary mode of transport around was the Rickshaw. No, not the ones where [someone cycles you around](http://en.wikipedia.org/wiki/Rickshaws_in_the_United_States). The Indian kind! I don't think they’re made for three dudes our size though. Also, it's pretty hilarious negotiating with drivers, especially when they see foreigners.
+![img](https://i.cloudup.com/vIvZAvALbZ.jpg)
 
 #### Cobalt
 
@@ -34,7 +34,8 @@ Before leaving, we were planning to work at [Jaaga](http://jaaga.in/). When we s
 
 #### $2 Haircut and Shave
 
-An awesome perk of living in India is the super cheap haircuts and shave. Includes haircut, massage, and shave. The Indian shaving blade can handle even the toughest hairs like Mueller's hipster mustache.
+An awesome perk of living in India is the super cheap haircuts and shave. $2 will buy you a haircut, head massage, and shave. The Indian shaving blade can handle even the toughest hairs like Mueller's hipster mustache.
+
 ![img](https://dl.dropboxusercontent.com/u/2312024/indian-haircut.JPG)
 
 #### Random Street Dance Party
