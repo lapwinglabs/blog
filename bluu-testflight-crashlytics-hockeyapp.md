@@ -23,9 +23,8 @@ After some research on TestFlight and Crashlytics, our first impressions were:
 ## TestFlight
 
 - Free
-- Collects UDID's by downloading an app on the user's phone. They use the same app to deliver the app for download. No chords necessary. Hallelujah!
-- Recently acquired by Apple, so should work seamlessly for iOS stuff. Unfortunately, this also means that they won't support Android anymore
-SDK integration provides crash reporting and user data
+- Collects UDID's by downloading an app on the user's phone. They use the same app to deliver the app for download. No cords necessary. Hallelujah!
+- Recently acquired by Apple, so should work seamlessly for iOS stuff. Unfortunately, this also means that they won't support Android anymore, but it did look like we could get crash reporting and detailed usage statistics by integrating with their SDK.
 
 ## Crashlytics
 
