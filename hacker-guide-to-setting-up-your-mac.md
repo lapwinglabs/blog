@@ -7,11 +7,11 @@ excerpt: Setting up your Mac the Hacker way
 author: Matthew Mueller
 ```
 
-![terminal](https://raw.githubusercontent.com/lapwinglabs/blog/master/assets/hacker-guide-to-setting-up-your-mac/terminal.png)
-
 Hackers obsess over automation. We want robots to do the grunt work so we can focus on the fun stuff. One area that's ripe for automation that hasn't seen much attention lately is setting up your computer.
 
 Today I want to show you some techniques to apply automation to the setup of your Mac. The goal of this post to automate 80% of the bootstrapping, allowing you to setup a new Mac in a matter of hours instead of days.
+
+![terminal](https://raw.githubusercontent.com/lapwinglabs/blog/master/assets/hacker-guide-to-setting-up-your-mac/terminal.png)
 
 ## Previous Work
 
