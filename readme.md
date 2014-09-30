@@ -1,5 +1,16 @@
 # Blog
 
+[Hacker's Guide to Setting up your Mac](hacker-guide-to-setting-up-your-mac.md)
+
+```
+title: Hacker's Guide to Setting up your Mac
+tags: [mac, hacker, bash]
+date: September 30, 2014
+slug: hacker-guide-to-setting-up-your-mac
+excerpt: Setting up your Mac the Hacker way
+author: Matthew Mueller
+```
+
 [Bluu: App Store Submission](bluu-app-store-submission.md)
 
 ```
