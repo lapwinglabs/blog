@@ -1,4 +1,3 @@
-
 ```
 title: Hacker's Guide to Setting up your Mac
 tags: [mac, hacker, bash]
@@ -10,11 +9,12 @@ author: Matthew Mueller
 
 Hackers obsess over automation. We want robots to do the grunt work so we can focus on the fun stuff. One area that's ripe for automation that hasn't seen much attention lately is setting up your computer.
 
-Today I want to show you some techniques apply automation to the setup of your Mac. The goal of this post to automate 80% of the bootstrapping, allowing you to setup a new Mac in a matter of hours instead of days.
+Today I want to show you some techniques to apply automation to the setup of your Mac. The goal of this post to automate 80% of the bootstrapping, allowing you to setup a new Mac in a matter of hours instead of days.
 
 ## Previous Work
 
-There has been previous work done in this area to automate Mac setup. [Boxen](https://boxen.github.com/) is probably the most notable. Boxen is Github's solution to keeping their teams running similar environments so there aren't as many inconsistencies across builds. Boxen is a great solution for more mature companies with a devops team, but what about the small startups or the lone hackers? We need a more suitable solution for them.
+There has been previous work done in this area to automate your Mac's setup. [Boxen](https://boxen.github.com/) is probably the most notable. Boxen is Github's solution to keeping their teams running similar environments so there aren't as many inconsistencies across boxes. Boxen is a great solution for more mature companies with devops teams
+, but what about the small startups or the lone hackers? We need a more suitable solution for them.
 
 ## Our toolbox
 
@@ -44,7 +44,7 @@ fi
 brew update
 ```
 
-The next thing you should do is update the unix tools you already have on your mac. This is more relevant than ever since ["Shellshock"](http://en.wikipedia.org/wiki/Shellshock_(software_bug)) was discovered.
+The next thing you should do is update the unix tools you already have on your mac. This is more relevant than ever since ["Shellshock"](goo.gl/zElPKk) was discovered.
 
 Here's a snippet to update these unix tools:
 
@@ -261,3 +261,10 @@ dots boot osx
 
 [dots(1)](https://github.com/matthewmueller/dots) is very much a work in progress, but I'm hoping to align the community's efforts around creating robust tools to quickly bootstrap new hacker-friendly machines.
 
+## Conclusion
+
+By setting up automation, you can get up and running on a new Mac faster. You will stay up to date on the latest security fixes and you can eliminate inconsistencies among your teammate's computers.
+
+What are your favorite tools for automation? Leave a comment!
+
+If you're interested in this kind of stuff or Lapwing Labs, you should [get in touch](mailto:hi@lapwinglabs.com).
