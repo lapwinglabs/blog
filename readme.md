@@ -60,6 +60,7 @@ author: Andy Pai
 
 ```
 title: An Indian Beginning
+draft: true
 tags: India, coworking space, Bangalore, Cobalt Bangalore, Taj Lands End
 date: July 21, 2014
 slug: an-indian-beginning
