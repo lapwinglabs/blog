@@ -9,7 +9,7 @@ author: Matthew Mueller
 
 Hackers obsess over automation. We want robots to do the grunt work so we can focus on the fun stuff. One area that's ripe for automation that hasn't seen much attention lately is setting up your computer.
 
-Today I want to show you some techniques to apply automation to the setup of your Mac. The goal of this post to automate 80% of the bootstrapping, allowing you to setup a new Mac in a matter of hours instead of days.
+Today I want to show you some techniques to apply automation to the setup of your Mac. The goal of this post is to automate 80% of the bootstrapping, allowing you to setup a new Mac in a matter of hours, not days.
 
 ![terminal](https://raw.githubusercontent.com/lapwinglabs/blog/master/assets/hacker-guide-to-setting-up-your-mac/terminal.png)
 
@@ -25,12 +25,12 @@ This blog post will make use of the following open source tools to automate your
 - Installing Binaries with [homebrew](http://brew.sh/)
 - Installing Apps with [homebrew cask](http://caskroom.io/)
 - Backing up and Restoring Configuration with [mackup](https://github.com/lra/mackup)
-- Great Mac settings for hackers using [osx-for-hackers.sh](https://gist.github.com/brandonb927/3195465) (modified)
+- Solid Mac defaults for hackers using [osx-for-hackers.sh](https://gist.github.com/brandonb927/3195465) (modified)
 - Bringing it all together with [dots](https://github.com/matthewmueller/dots)
 
 ## Installing Binaries with Homebrew
 
-Homebrew is a community-driven package installer and an essential tool for every hacker's toolkit. Homebrew automates the setup, compiling and linking of binaries. It also manages updates and uninstalling a binary is a breeze.
+Homebrew is a community-driven package installer and an essential tool for every hacker's toolkit. Homebrew automates the setup, compiling and linking of binaries. It also makes updates and uninstalling a binary a breeze.
 
 This is the first thing you should install on a fresh mac. Drop this snippet in a bash script to make sure homebrew gets installed:
 
@@ -46,14 +46,13 @@ fi
 brew update
 ```
 
-The next thing you should do is update the unix tools you already have on your mac. This is more relevant than ever since ["Shellshock"](goo.gl/zElPKk) was discovered.
+The next thing you should do is update the unix tools you already have on your mac. This is more relevant than ever since the recent ["Shellshock"](goo.gl/zElPKk) debacle.
 
 Here's a snippet to update these unix tools:
 
 ```bash
 # Install GNU core utilities (those that come with OS X are outdated)
 brew install coreutils
-echo "Don’t forget to add $(brew --prefix coreutils)/libexec/gnubin to \$PATH."
 
 # Install GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
 brew install findutils
@@ -66,13 +65,13 @@ brew tap homebrew/dupes
 brew install homebrew/dupes/grep
 ```
 
-You'll also need to update the `$PATH` in your `~/.bash_profile` in order to use these tools over the Mac ones:
+You'll also need to update the `$PATH` in your `~/.bash_profile` in order to use these tools over their Mac counterparts:
 
 ```bash
 $PATH=$(brew --prefix coreutils)/libexec/gnubin:$PATH
 ```
 
-This establishes a solid foundation for your Mac. You can also install other tools to improve your workflow. Here's what I install:
+This establishes a solid foundation for your Mac. You should also install other tools using Homebrew to improve your workflow. Here's what I install:
 
 ```bash
 brew install graphicsmagick
@@ -90,7 +89,7 @@ brew install hub
 brew install git
 ```
 
-After your done, you should clean everything up:
+After you're done, you should clean everything up with:
 
 ```bash
 brew cleanup
@@ -100,14 +99,14 @@ brew cleanup
 
 [Homebrew Cask](http://caskroom.io/) is an extension for Homebrew that allows you to automate the installation of Mac Apps and Fonts.
 
-After you have homebrew installed, you'll want to install homebrew cask:
+After you have homebrew installed, you'll want to tap and install Homebrew Cask:
 
 ```bash
 brew tap phinze/homebrew-cask
 brew install brew-cask
 ```
 
-The number of apps you can install with Cask is enormous and growing every day. You can take a look at what is offered here in their repo https://github.com/caskroom/homebrew-cask/tree/master/Casks or you can search for applications from the CLI:
+The number of apps you can install with Cask is enormous and growing every day. You can take a look at what applications are installable in their [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask/tree/master/Casks) repo or you can search for applications from the CLI:
 
 ```bash
 brew cask search /google-chrome/
@@ -166,9 +165,9 @@ If you want to install beta versions of things like Chrome Canary or Sublime Tex
 brew tap caskroom/versions
 ```
 
-### For Alfred users
+### Attention Alfred users
 
-One thing you may notice if you're an Alfred user is that you cannot actually launch the apps from Alfred because the actual location of the app is not in `/Applications` but in `/opt/homebrew-cask/Caskroom/`.
+One thing you may notice if you're an [Alfred](http://www.alfredapp.com/) user is that you cannot actually launch these apps from Alfred because the actual location of the app is not in `/Applications` but in `/opt/homebrew-cask/Caskroom/`.
 
 To add this path to Alfred, you can run the following command:
 
@@ -192,7 +191,7 @@ The font recipes are prefixed by `font-*`, so if you want to download [Roboto](h
 brew cask search /font-roboto/
 ```
 
-Here's how I install the fonts:
+Here's how I install fonts:
 
 ```bash
 # fonts
@@ -221,13 +220,13 @@ pip install mackup
 
 By default mackup saves your preferences to your Dropbox, so you'll want to setup Dropbox first.
 
-Once Dropbox is setup, to backup your settings, simply run:
+Once Dropbox is setup, backing up your settings is simple:
 
 ```bash
 mackup backup
 ```
 
-This command will look match your installed applications with it's recipes and copy the files to `~/Dropbox/Mackup`.
+This command will look match your installed applications with it's recipes and symlink the settings files to `~/Dropbox/Mackup`.
 
 To restore these settings on another Mac or a wiped Mac, simply run:
 
@@ -237,11 +236,11 @@ mackup restore
 
 ## osx-for-hackers.sh
 
-[osx-for-hackers.sh](https://gist.github.com/brandonb927/3195465) is a script based on Mathias Bynen's popular [dotfiles](https://github.com/mathiasbynens/dotfiles/blob/master/.osx).
+[osx-for-hackers.sh](https://gist.github.com/brandonb927/3195465) is a script by [Brandon Brown](https://github.com/brandonb927) that is based on [Mathias Bynens](https://github.com/mathiasbynens)'s popular [dotfiles](https://github.com/mathiasbynens/dotfiles/blob/master/.osx).
 
-This script optimizes your Mac's defaults for hackers. It disables many of the annoying defaults Macs have, speeds up the keyboard repeat rate and window animations, and many other tweaks.
+This script optimizes your Mac's settings for hackability. It disables many of the annoying defaults Macs have, speeds up the keyboard repeat rate and window animations, and applies many other tweaks.
 
-This script should not be run without reading through it. It's quite opinionated and intended to be modified. You can find the version I modified here:
+This script should not be run without prior examination. It's quite opinionated and intended to be modified. You can find the version I modified here:
 
 https://gist.github.com/MatthewMueller/e22d9840f9ea2fee4716
 
@@ -249,7 +248,7 @@ This version makes the script more idempotent, removing a lot of the prompts tha
 
 ## dots(1)
 
-[dots(1)](https://github.com/matthewmueller/dots) is a script I wrote to glue these concepts together. It's intended to be the first thing you install on your Mac (or Ubuntu server). It has no outside dependencies and works on many different distributions. To get the binary, run:
+[dots(1)](https://github.com/matthewmueller/dots) is a script I wrote to glue these concepts together. It's intended to be the first thing you install on your Mac (or Ubuntu server). It has no outside dependencies and works on many different distributions. To get the binary, simply run:
 
 ```
 (mkdir -p /tmp/dots && cd /tmp/dots && curl -L# https://github.com/matthewmueller/dots/archive/master.tar.gz | tar zx --strip 1 && sh ./install.sh)
@@ -265,8 +264,10 @@ dots boot osx
 
 ## Conclusion
 
-By setting up automation, you can get up and running on a new Mac faster. You will stay up to date on the latest security fixes and you can eliminate inconsistencies among your teammate's computers.
+By setting up automation, you can get up and running on a new Mac faster. You will stay up to date with the latest security fixes and you can eliminate inconsistencies among your teammate's computers.
 
 What are your favorite tools for automation? Leave a comment!
 
-If you're interested in this kind of stuff or Lapwing Labs, you should [get in touch](mailto:hi@lapwinglabs.com).
+If you're interested in this kind of stuff or in our [other work](lapwinglabs.com/#work), you should [get in touch](mailto:hi@lapwinglabs.com).
+
+Happy automating!
