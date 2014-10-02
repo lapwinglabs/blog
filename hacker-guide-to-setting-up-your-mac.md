@@ -1,5 +1,5 @@
 ```
-title: Hacker's Guide to Setting up your Mac
+title: Hacker's Guide to Setting up Your Mac
 tags: [mac, hacker, bash]
 date: September 30, 2014
 slug: hacker-guide-to-setting-up-your-mac
