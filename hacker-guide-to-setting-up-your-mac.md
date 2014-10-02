@@ -102,8 +102,7 @@ brew cleanup
 After you have homebrew installed, you'll want to tap and install Homebrew Cask:
 
 ```bash
-brew tap phinze/homebrew-cask
-brew install brew-cask
+brew install caskroom/cask/brew-cask
 ```
 
 The number of apps you can install with Cask is enormous and growing every day. You can take a look at what applications are installable in their [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask/tree/master/Casks) repo or you can search for applications from the CLI:
