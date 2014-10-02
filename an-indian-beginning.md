@@ -7,7 +7,7 @@ excerpt: Tales from our India trip.
 author: Andy Pai
 ```
 
-Since Brian was still finishing up work at GE, Matt and I along with Matt Hogan, our co-founder for [Levered Returns](http://www.leveredreturns.com), took to trip to Bangalore, India to start working on the Levered Returns and [Duo](http://duojs.org/) concepts. We figured it would be less distracting and give us a chance to meet some interesting people.
+Since Brian was still finishing up work at GE, Matt and I along with Matt Hogan, our co-founder for [Levered Returns](http://www.leveredreturns.com), took a trip to Bangalore, India to start working on the Levered Returns and [Duo](http://duojs.org/) concepts. We figured it would be less distracting and give us a chance to meet some interesting people.
 
 Below are some highlights from the trip.
 
@@ -28,13 +28,13 @@ Our primary mode of transport around was the Rickshaw. No, not the ones where [s
 
 #### Cobalt
 
-Before leaving, we were planning to work at [Jaaga](http://jaaga.in/). When we showed up, we realized the co-working space had moved into someone's apartment instead. After a day of rickshawing around Bangalore, some picking each other up, and soul-searching, we finally end the search at [Cobalt](http://www.cobaltblr.com/). If you're looking for a Western style co-working space with nice people, this is it!
+Before leaving, we were planning to work at [Jaaga](http://jaaga.in/). When we showed up, we realized the co-working space had moved into someone's apartment instead. After a day of rickshawing around Bangalore, picking each other up, and soul-searching, we finally end the search at [Cobalt](http://www.cobaltblr.com/). If you're looking for a Western style co-working space with nice people, this is it!
 
 ![img](https://dl.dropboxusercontent.com/u/2312024/cobalt.jpg)
 
 #### $2 Haircut and Shave
 
-An awesome perk of living in India is the super cheap haircuts and shave. $2 will buy you a haircut, head massage, and shave. The Indian shaving blade can handle even the toughest hairs like Mueller's hipster mustache.
+An awesome perk of living in India is the super cheap haircuts and shave. $2 will buy you a haircut, head massage, and shave. The Indian shaving blade can handle even the toughest hairs like Mueller's hipster 'stache.
 
 ![img](https://dl.dropboxusercontent.com/u/2312024/indian-haircut.JPG)
 
