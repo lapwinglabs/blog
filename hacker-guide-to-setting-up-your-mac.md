@@ -267,7 +267,7 @@ dots boot osx
 
 ## Conclusion
 
-By setting up automation, you can get up and running on a new Mac faster. You will stay up to date with the latest security fixes and you can eliminate inconsistencies among your teammate's computers.
+By setting up automation, you can get up and running on a new Mac faster, you will stay up to date with the latest security fixes and you can minimize inconsistencies among your teammate's computers.
 
 What are your favorite tools for automation? Leave a comment!
 
