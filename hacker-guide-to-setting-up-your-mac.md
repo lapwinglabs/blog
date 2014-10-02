@@ -91,7 +91,7 @@ binaries=(
 )
 
 echo "installing binaries..."
-brew cask install --appdir="/Applications" ${binaries[@]}
+brew install ${binaries[@]}
 ```
 
 After you're done, you should clean everything up with:
