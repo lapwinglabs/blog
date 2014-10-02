@@ -30,7 +30,7 @@ This blog post will make use of the following open source tools to automate your
 
 ## Installing Binaries with Homebrew
 
-Homebrew is a community-driven package installer and an essential tool for every hacker's toolkit. Homebrew automates the setup, compiling and linking of binaries. It also makes updates and uninstalling a binary a breeze.
+Homebrew is a community-driven package installer and an essential tool for every hacker's toolkit. Homebrew automates the setup, compiling and linking of binaries. It also makes updating and uninstalling binaries a breeze.
 
 This is the first thing you should install on a fresh mac. Drop this snippet in a bash script to make sure homebrew gets installed:
 
