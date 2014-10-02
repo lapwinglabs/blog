@@ -268,6 +268,6 @@ By setting up automation, you can get up and running on a new Mac faster. You wi
 
 What are your favorite tools for automation? Leave a comment!
 
-If you're interested in this kind of stuff or in our [other work](lapwinglabs.com/#work), you should [get in touch](mailto:hi@lapwinglabs.com).
+If you're interested in this kind of stuff or in our [other work](http://lapwinglabs.com/#work), you should [get in touch](mailto:hi@lapwinglabs.com).
 
 Happy automating!
