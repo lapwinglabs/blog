@@ -71,22 +71,27 @@ You'll also need to update the `$PATH` in your `~/.bash_profile` in order to use
 $PATH=$(brew --prefix coreutils)/libexec/gnubin:$PATH
 ```
 
-This establishes a solid foundation for your Mac. You should also install other tools using Homebrew to improve your workflow. Here's what I install:
+This establishes a solid foundation for your Mac. You can also install other tools with Homebrew to improve your workflow. Here's what I install:
 
 ```bash
-brew install graphicsmagick
-brew install webkit2png
-brew install rename
-brew install zopfli
-brew install ffmpeg
-brew install python
-brew install sshfs
-brew install trash
-brew install node
-brew install tree
-brew install ack
-brew install hub
-brew install git
+binaries=(
+  graphicsmagick
+  webkit2png
+  rename
+  zopfli
+  ffmpeg
+  python
+  sshfs
+  trash
+  node
+  tree
+  ack
+  hub
+  git
+)
+
+echo "installing binaries..."
+brew cask install --appdir="/Applications" ${binaries[@]}
 ```
 
 After you're done, you should clean everything up with:
