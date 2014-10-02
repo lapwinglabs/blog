@@ -46,7 +46,7 @@ fi
 brew update
 ```
 
-The next thing you should do is update the unix tools you already have on your mac. This is more relevant than ever since the recent ["Shellshock"](goo.gl/zElPKk) debacle.
+The next thing you should do is update the unix tools you already have on your mac. This is more relevant than ever since the recent ["Shellshock"](http://goo.gl/zElPKk) debacle.
 
 Here's a snippet to update these unix tools:
 
