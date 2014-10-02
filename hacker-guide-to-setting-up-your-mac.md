@@ -218,9 +218,9 @@ I haven't had much luck installing Mackup using Homebrew (on Yosemite), but it's
 pip install mackup
 ```
 
-By default mackup saves your preferences to your Dropbox, so you'll want to setup Dropbox first.
+If `pip` is not available, you may need to install `python` with `brew install python`.
 
-Once Dropbox is setup, backing up your settings is simple:
+By default mackup saves your preferences to your Dropbox, so you'll want to setup Dropbox first. Once Dropbox is setup, backing up your settings is simple:
 
 ```bash
 mackup backup
