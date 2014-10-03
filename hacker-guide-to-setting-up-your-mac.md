@@ -104,7 +104,7 @@ brew cleanup
 
 [Homebrew Cask](http://caskroom.io/) is an extension for Homebrew that allows you to automate the installation of Mac Apps and Fonts.
 
-After you have homebrew installed, you'll want to tap and install Homebrew Cask:
+After you have homebrew installed, you'll want to install Homebrew Cask:
 
 ```bash
 brew install caskroom/cask/brew-cask
@@ -229,7 +229,7 @@ By default mackup saves your preferences to your Dropbox, so you'll want to setu
 mackup backup
 ```
 
-This command will look match your installed applications with it's recipes and symlink the settings files to `~/Dropbox/Mackup`.
+This command will match your installed applications with it's recipes and symlink the settings files to `~/Dropbox/Mackup`.
 
 To restore these settings on another Mac or a wiped Mac, simply run:
 
