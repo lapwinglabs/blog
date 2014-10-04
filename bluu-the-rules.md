@@ -10,7 +10,7 @@ If you didn't read my last post on [The Birth of Bluu](http://lapwinglabs.com/bl
 
 The idea behind Bluu was that we could take advantage of the [Stroop Effect](http://en.wikipedia.org/wiki/Stroop_effect) (depicted below) to create a game that was mentally stimulating but simple to implement.
 
-![img](https://dl.dropboxusercontent.com/u/2312024/StroopEffect.png)
+![stroop effect](https://i.cloudup.com/6V0mxEDxpu.png)
 
 But what would that game look like? How would you play it? Well, defining the actual rules for Bluu turned out to be the most time-consuming part of the weekend and required a few iterations.
 
