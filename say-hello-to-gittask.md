@@ -10,7 +10,7 @@ draft: true
 
 Gittask is a marketplace for connecting people that need to get coding tasks done with developers who can complete these tasks.
 
-![picture of the service](https://cldup.com/AXr5B328Lz.png)
+![picture of the service](https://cldup.com/v8Bo2umQmy.png)
 
 You can use Gittask for building your website, adding a feature
 
