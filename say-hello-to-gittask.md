@@ -8,11 +8,9 @@ author: Lapwing Labs
 draft: true
 ```
 
-![introduction gittask](https://cldup.com/0bii9rgmFQ.png)
-
 Gittask is a marketplace for connecting people that need to get coding tasks done with developers who can complete these tasks.
 
-![picture of the service](https://cldup.com/ABYQk5b4za.png)
+![picture of the service](https://cldup.com/AXr5B328Lz.png)
 
 You can use Gittask for building your website, adding a feature
 
