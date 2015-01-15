@@ -1,5 +1,17 @@
 # Blog
 
+[Say Hello to Gittask](say-hello-to-gittask.md)
+
+```
+title: Say Hello to Gittask
+tags: [gittask, site, open source, development]
+date: January 16, 2017
+slug: say-hello-to-gittask
+excerpt: Introducing a new marketplace for coding tasks
+author: Lapwing Labs
+draft: true
+```
+
 [Hacker's Guide to Setting up your Mac](hacker-guide-to-setting-up-your-mac.md)
 
 ```
