@@ -8,7 +8,7 @@ author: Lapwing Labs
 draft: true
 ```
 
-![introduction gittask](...)
+![introduction gittask](https://cldup.com/0bii9rgmFQ.png)
 
 Gittask is a marketplace for connecting people that need to get coding tasks done with developers who can complete these tasks.
 
