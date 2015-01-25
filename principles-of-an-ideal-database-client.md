@@ -18,15 +18,15 @@ Database clients come in all shapes and sizes. Some are [awful](https://github.c
 
 In my mind, the ideal database client would have the following characteristics:
 
-1. **Lossless Serialization & Deserialization:**
+- **Lossless Serialization & Deserialization:**
 
   The data that goes in, should be exactly the same as the data that comes out. If this is not possible, the data should not go in at all.
 
-2. **Polyglot Persistence:**
+- **Polyglot Persistence:**
 
     Your database client should be able to speak to different backend databases.
 
-3. **Atomic Transactions across Databases:**
+- **Atomic Transactions across Databases:**
 
     Your database client should be able to chain together writes across databases and rollback if there's a failure anywhere in the pipeline.
 
