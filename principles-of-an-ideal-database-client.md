@@ -8,7 +8,7 @@ author: Lapwing Labs
 draft: true
 ```
 
-As we've been building [Gittask](https://gittask.com), I've noticed some very leaky abstractions, specifically around our database client. We've had to write some gnarley boilerplate to handle type conversations and rollbacks. That got me thinking a lot about this question:
+As we've been building [Gittask](https://gittask.com), we've noticed some very leaky abstractions, specifically around our database client. We've had to write some gnarley boilerplate to handle type conversations and rollbacks. That got me thinking a lot about this question:
 
 > What would the ideal database client would look like?
 
