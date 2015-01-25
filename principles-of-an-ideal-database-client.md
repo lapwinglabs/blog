@@ -5,7 +5,6 @@ date: January 25, 2017
 slug: principles-of-an-ideal-database-client
 excerpt: Discussing the principles that go into an ideal database client
 author: Lapwing Labs
-draft: true
 ```
 
 As we've been building [Gittask](https://gittask.com), we've noticed some very leaky abstractions, specifically around our database client. We've had to write some gnarley boilerplate to handle type conversations and rollbacks. That got me thinking a lot about this question:

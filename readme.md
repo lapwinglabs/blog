@@ -9,7 +9,6 @@ date: January 25, 2017
 slug: principles-of-an-ideal-database-client
 excerpt: Discussing the principles that go into an ideal database client
 author: Lapwing Labs
-draft: true
 ```
 
 [Say Hello to Gittask](say-hello-to-gittask.md)
