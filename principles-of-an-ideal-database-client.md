@@ -1,7 +1,7 @@
 ```
 title: Principles of an Ideal Database Client
 tags: [database, client, open source, development]
-date: January 25, 2017
+date: January 25, 2015
 slug: principles-of-an-ideal-database-client
 excerpt: Discussing the principles that go into an ideal database client
 author: Matthew Mueller
