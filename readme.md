@@ -5,7 +5,7 @@
 ```
 title: Principles of an Ideal Database Client
 tags: [database, client, open source, development]
-date: January 25, 2017
+date: January 25, 2015
 slug: principles-of-an-ideal-database-client
 excerpt: Discussing the principles that go into an ideal database client
 author: Matthew Mueller
@@ -16,7 +16,7 @@ author: Matthew Mueller
 ```
 title: Say Hello to Gittask
 tags: [gittask, site, open source, development]
-date: January 16, 2017
+date: January 16, 2015
 slug: say-hello-to-gittask
 excerpt: Introducing a new marketplace for coding tasks
 author: Lapwing Labs
