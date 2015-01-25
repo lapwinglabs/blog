@@ -8,19 +8,7 @@ tags: [database, client, open source, development]
 date: January 25, 2017
 slug: principles-of-an-ideal-database-client
 excerpt: Discussing the principles that go into an ideal database client
-author: Lapwing Labs
-```
-
-[Say Hello to Gittask](say-hello-to-gittask.md)
-
-```
-title: Say Hello to Gittask
-tags: [gittask, site, open source, development]
-date: January 16, 2017
-slug: say-hello-to-gittask
-excerpt: Introducing a new marketplace for coding tasks
-author: Lapwing Labs
-draft: true
+author: Matthew Mueller
 ```
 
 [Say Hello to Gittask](say-hello-to-gittask.md)
