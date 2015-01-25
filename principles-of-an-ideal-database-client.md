@@ -37,7 +37,7 @@ As developers, we shouldn't have to worry about how the database is going to mud
 
 Our database or database client should be responsible for keeping these data structures intact. When you save a Date object, you should expect to get a Date object back out.
 
-This serialization and deserialization should be separate but consumed by the ideal database client. There may be cases when you do not use this client for data retrieval, but you will still want the data to be cast properly.
+The serialization and deserialization steps should be separate but consumed by the ideal database client. There may be cases when you do not use this client for data retrieval, but you will still want the data to be cast properly.
 
 I wrote [superjson](https://github.com/lapwinglabs/superjson) as a first attempt at solving this problem for Node.js.
 
@@ -45,9 +45,9 @@ I wrote [superjson](https://github.com/lapwinglabs/superjson) as a first attempt
 
 The database landscape has grown immensely over the last couple years. Each new database has certain advantages over the others, but all make certain tradeoffs.
 
-In fact, the [CAP theorem](http://en.wikipedia.org/wiki/CAP_theorem) tells us that it's impossible to have the perfect database and we need to choose which tradeoffs are acceptable for our application. [Martin Fowler](https://twitter.com/martinfowler) popularized this idea of [Polygot Persistence](http://martinfowler.com/bliki/PolyglotPersistence.html).
+In fact, the [CAP theorem](http://en.wikipedia.org/wiki/CAP_theorem) tells us that it's impossible to have the perfect database and we need to choose which tradeoffs are acceptable for our application.
 
-Polygot Persistence is this idea that you should pick the right database for the right job. This is a workaround for the CAP Theorem, allowing us to avoid making these tradeoffs.
+One workaround for these restrains is this idae of [Polygot Persistence](http://martinfowler.com/bliki/PolyglotPersistence.html), which was popularized by [Martin Fowler](https://twitter.com/martinfowler). Polygot Persistence is the idea that you should pick the right database for the right job. This way we have can our cake and eat it too.
 
 ---
 
@@ -125,6 +125,6 @@ client.mongo.query(query);
 
 The ideal database has not been built yet. Right now, it's a series of high-level ideas that should go into building this client. I'm calling on the community to help get involved to hammer out the details and harden the implementation.
 
-If you are interested in getting involved or following along, I've set up a repository here: []()
+If you are interested in getting involved or following along, I've set up a repository on [Github](https://github.com/lapwinglabs/yurt), with the working title Yurt.
 
 As always, if you like the work we do or want to follow us along as we learn, follow us on Twitter at [@lapwinglabs](https://twitter.com/lapwinglabs).
