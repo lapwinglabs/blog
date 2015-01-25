@@ -12,21 +12,21 @@ As we've been building [Gittask](https://gittask.com), I've noticed some very le
 
 > What would the ideal database client would look like?
 
-Database clients come in all shapes and sizes. Some are awful to work with, some are lovely to work with. Unfortunately, I find that all database clients fall short in some way or another. Here's what I believe goes into an ideal database client.
+Database clients come in all shapes and sizes. Some are [awful](https://github.com/mongodb/node-mongodb-native) to work with, some are quite [lovely](https://github.com/pebble/yieldb) to work with. Unfortunately, I've found that all database clients fall short in some way or another. Here's what I believe goes into an ideal database client.
 
 ## Principles of an Ideal Database Client
 
 In my mind, the ideal database client would have the following characteristics:
 
-1. Lossless Serialization & Deserialization:
+1. **Lossless Serialization & Deserialization:**
 
   The data that goes in, should be exactly the same as the data that comes out. If this is not possible, the data should not go in at all.
 
-2. Polyglot Persistence:
+2. **Polyglot Persistence:**
 
     Your database client should be able to speak to different backend databases.
 
-3. Atomic Transactions across Databases:
+3. **Atomic Transactions across Databases:**
 
     Your database client should be able to chain together writes across databases and rollback if there's a failure anywhere in the pipeline.
 
