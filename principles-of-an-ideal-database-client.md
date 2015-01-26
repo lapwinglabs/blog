@@ -87,7 +87,7 @@ I spent a lot of time [using](https://github.com/LearnBoost/mongoose/) and [buil
 
 Laurie Voss blogged back in 2011 about why [ORM is an anti-pattern](http://seldo.com/weblog/2011/08/11/orm_is_an_antipattern). This blog post is still very relevant.
 
-I think you can get most of the advantages an ORM offers by having a good standalone data validation library (I recommend [rube](github.com/lapwinglabs/rube)) and our ideal database client.
+I think you can get most of the advantages an ORM offers by having a good standalone data validation library (I recommend [rube](http://github.com/lapwinglabs/rube)) and our ideal database client.
 
 Then you can write your own models in a performant way with the best tools for the job.
 
