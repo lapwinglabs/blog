@@ -47,7 +47,7 @@ The database landscape has grown immensely over the last couple years. Each new 
 
 In fact, the [CAP theorem](http://en.wikipedia.org/wiki/CAP_theorem) tells us that it's impossible to have the perfect database and we need to choose which tradeoffs are acceptable for our application.
 
-One workaround for these restrains is this idae of [Polygot Persistence](http://martinfowler.com/bliki/PolyglotPersistence.html), which was popularized by [Martin Fowler](https://twitter.com/martinfowler). Polygot Persistence is the idea that you should pick the right database for the right job. This way we have can our cake and eat it too.
+One workaround for these restrains is the idea of [Polygot Persistence](http://martinfowler.com/bliki/PolyglotPersistence.html) that was popularized by [Martin Fowler](https://twitter.com/martinfowler). Polygot Persistence is the idea that you should pick the right database for the right job. This way we have can our cake and eat it too.
 
 ---
 
